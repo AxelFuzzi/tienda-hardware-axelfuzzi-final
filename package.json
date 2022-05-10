@@ -1,0 +1,19 @@
+{
+  "name": "proyecto_sass",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AxelFuzzi/tienda-hardware-tercera-entrega-fuzzi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AxelFuzzi/tienda-hardware-tercera-entrega-fuzzi/issues"
+  },
+  "homepage": "https://github.com/AxelFuzzi/tienda-hardware-tercera-entrega-fuzzi#readme",
+  "description": ""
+}
